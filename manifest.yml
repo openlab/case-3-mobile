@@ -1,5 +1,5 @@
 applications:
-- name: case-3-mobile
+- name: expense-mobile
   mem: 128M
   services:
   stackato:
